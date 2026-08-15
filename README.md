@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -13,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
