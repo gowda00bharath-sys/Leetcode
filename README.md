@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
