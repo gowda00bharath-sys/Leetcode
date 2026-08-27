@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0205-isomorphic-strings) |
