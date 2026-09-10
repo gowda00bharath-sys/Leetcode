@@ -18,7 +18,7 @@ class Solution {
 
             int min = Math.min(a, Math.min(b, c));
 
-            if (min != -1) {
+            if (min > -1) {
                 count += min + 1;
             }
         }
