@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/gowda00bharath-sys/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/gowda00bharath-sys/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
